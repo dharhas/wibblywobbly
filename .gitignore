@@ -33,3 +33,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+*~
+*.pyc
+output
+_build
+_nb_header.html
